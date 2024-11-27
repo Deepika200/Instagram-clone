@@ -1,0 +1,19 @@
+.loading-screen {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #fafafa;
+  }
+  
+  .loading-screen img {
+    width: 150px;
+    margin-bottom: 20px;
+  }
+  
+  .loading-screen p {
+    font-size: 18px;
+    color: #8e8e8e;
+  }
+  
